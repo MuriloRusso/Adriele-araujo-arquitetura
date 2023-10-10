@@ -32,7 +32,7 @@ a{
 
 .container-2{
 
-    max-width: 900px;
+    max-width: 1000px;
     margin: auto;
 
 }
@@ -64,10 +64,14 @@ a{
 
 .pt{
 
+    padding-top: 50px;
 
-    padding-top: 100px;
+}
 
+.pb{
 
+    padding-bottom: 50px;
+    
 }
 
 hr{
@@ -75,7 +79,8 @@ hr{
     max-width: 52px;
     height: 5px;
     background-color: #E1B6A3;
-    margin: 10px auto 50px !important;
+    margin: 10px auto 80px !important;
+    border-top: 0 !important;
 
 }
 
@@ -84,7 +89,6 @@ p{
     line-height: 2.2em;
     margin-bottom: 40px;
     color: #605E5E;
-    /* font-size: 14px; */
 
 }
 
@@ -93,5 +97,12 @@ h2{
     color: #6A879F !important;
     text-transform: uppercase;
     letter-spacing: 2px;
+
+}
+
+
+.bg-secondary{
+
+    background-color: #EFE4DB;
 
 }

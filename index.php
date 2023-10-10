@@ -51,9 +51,9 @@
 
     </section>
 
-    <section class='pt container'>
+    <section class='pt pb container'>
 
-        <div class="container text-center">
+        <div class="container text-center pt">
 
             <h2>Sobre</h2>
             <hr>
