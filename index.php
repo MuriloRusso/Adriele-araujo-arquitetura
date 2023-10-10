@@ -175,7 +175,7 @@
 
             <div class="col-12 col-md-6">
 
-                <div class="row no-wrap align-items-center my-3">
+                <div class="row  align-items-center my-3">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>
@@ -191,7 +191,7 @@
                 </div>
 
 
-                <div class="row no-wrap align-items-center  my-3">
+                <div class="row  align-items-center  my-3">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>
@@ -202,13 +202,13 @@
                     </g>
                 </svg>
 
-                    <!-- <p class="mb-0">Avenida. Andromeda 885 - Barueri - São Paulo</p> -->
+                    <p class="mb-0">Avenida. Andromeda 885 - Barueri - São Paulo</p>
 
                 </div>
 
 
 
-                <div class="row no-wrap align-items-center my-3">
+                <div class="row  align-items-center my-3">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>
@@ -219,7 +219,7 @@
                     </g>
                 </svg>
 
-                    <!-- <p class="mb-0">orcamentos@loft7arquitetura.com.br</p> -->
+                    <p class="mb-0">orcamentos@loft7arquitetura.com.br</p>
 
                 </div>
 
