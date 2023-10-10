@@ -23,6 +23,12 @@ a{
 
 }
 
+img{
+
+    max-width: 100%;
+
+}
+
 .container{
 
     max-width: 1200px;
@@ -101,8 +107,8 @@ h2{
 }
 
 
-.bg-secondary{
+.bg-second{
 
-    background-color: #EFE4DB;
+    background-color: #EFE4DB !important;
 
 }

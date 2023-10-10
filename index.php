@@ -84,6 +84,83 @@
 
     </section>
 
+    <section class="bg-second pt pb">
+
+        <div class="container-2">
+
+            <div class="container text-center">
+
+                <h2>Serviços</h2>
+                <hr>
+
+            </div>
+
+            <div class="text-center">
+
+                <p>
+
+                Comprou um apartamento/casa nova ou quer reformar o antigo? Esse projeto vai te dar todo direcionamento do que precisa ser feito, nossos projetos são todos personalizados e pensados em cada necessidade, gosto e desejos de quem irá curtir aquele espaço! Para nós o mais importante é o cliente satisfeito e realizado com o resultado!
+
+                </p>
+
+                <p>
+
+                Para isso, temos 2 opções de projetos! Clique no ícone e saiba mais.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section>
+
+        <img class="col-12" src="https://static.wixstatic.com/media/4bd675_467deb5aa6374ca386c4b7cc69e933d1~mv2.jpg/v1/fill/w_1583,h_430,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4bd675_467deb5aa6374ca386c4b7cc69e933d1~mv2.jpg" alt="">
+
+    </section>
+
+    <section class="container pt pb">
+
+        <div class="row" style="justify-content: center;">
+
+            <div class="container text-center">
+
+                <h2>Galeria</h2>
+                <hr>
+
+            </div>
+
+            <div class="col-xl-3 col-md-5 col-4">
+
+                <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
+
+            </div>
+
+            <div class="col-xl-3 col-md-5 col-4">
+
+                <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
+
+
+            </div>
+
+            <div class="col-xl-3 col-md-5 col-4">
+
+            <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section>
+
+        <img class="col-12" src="https://static.wixstatic.com/media/4bd675_dcca6d20b9ed4736a1ad4a9e16e986ea~mv2.jpg/v1/fill/w_1583,h_421,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4bd675_dcca6d20b9ed4736a1ad4a9e16e986ea~mv2.jpg" alt="">
+
+    </section>
 
 </body>
 </html>
