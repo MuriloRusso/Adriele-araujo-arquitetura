@@ -132,20 +132,20 @@
 
             </div>
 
-            <div class="col-xl-3 col-md-5 col-4">
+            <div class="col-xl-3 col-md-5 col-10 my-3">
 
                 <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
 
             </div>
 
-            <div class="col-xl-3 col-md-5 col-4">
+            <div class="col-xl-3 col-md-5 col-10 my-3">
 
                 <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
 
 
             </div>
 
-            <div class="col-xl-3 col-md-5 col-4">
+            <div class="col-xl-3 col-md-5 col-10 my-3">
 
             <img src="https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_413,h_413,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 1x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_826,h_826,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 2x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1239,h_1239,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 3x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_1652,h_1652,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 4x, https://static.wixstatic.com/media/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.jpg/v1/fill/w_2065,h_2065,q_90/4bd675_3a0e3b90234f47e59a2ece1f43562820~mv2.webp 5x" alt="">
 
@@ -159,6 +159,68 @@
     <section>
 
         <img class="col-12" src="https://static.wixstatic.com/media/4bd675_dcca6d20b9ed4736a1ad4a9e16e986ea~mv2.jpg/v1/fill/w_1583,h_421,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4bd675_dcca6d20b9ed4736a1ad4a9e16e986ea~mv2.jpg" alt="">
+
+    </section>
+
+    <section class="container pt pb">
+
+        <div class="container text-center">
+
+            <h2>Contato</h2>
+            <hr>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-12 col-md-6">
+
+                Coluna com dados de contato
+
+            </div>
+
+            <div class="col-12 col-md-6">
+
+                <form action="" method="post" class="row">
+
+                    <div class=" my-3 col-12 col-md-6">
+
+                        <label for="nome">Nome</label>
+
+                        <input type="text" class="form-control" name="nome" id="nome">
+
+                    </div>
+
+                    <div class=" my-3 col-12 col-md-6">
+
+                        <label for="sobrenome">Sobrenome</label>
+
+                        <input type="text" class="form-control" name="sobrenome" id="sobrenome">
+
+                    </div>
+
+                    <div class="form-group my-3">
+
+                        <label for="email">Email *</label>
+
+                        <input type="email" class="form-control" name="email" id="email">
+
+                    </div>
+
+                    <div class="form-group my-3">
+
+                        <label for="msg">Mensagem</label>
+
+                        <textarea name="msg" id="msg" cols="30" rows="10" class="form-control"></textarea>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+
+        </div>
 
     </section>
 
