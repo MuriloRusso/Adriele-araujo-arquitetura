@@ -3,7 +3,14 @@ header{
     padding: 20px;
     position: fixed;
     width: -webkit-fill-available;
+    top: 0;
+    z-index: 999;
+    background-color: white;
+}
 
+header div{
+
+    display: flex;
 }
 
 header nav ul{

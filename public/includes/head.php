@@ -4,6 +4,8 @@
 
 <link rel="stylesheet" type="text/css" href="public/css/header.css" media="screen"> 
 
+<link rel="stylesheet" type="text/css" href="public/css/carrousel.css" media="screen"> 
+
 <meta property="og:type" content="website" />
 
 <meta property="og:title" content="Adriele Araújo Arquitetura" />
@@ -37,4 +39,9 @@
 
 <link rel="icon" type="image/x-icon" href="public/img/iso.svg">
 
+<!-- Adicione o CSS do Bootstrap -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+<!-- Adicione o JavaScript do Bootstrap (opcional) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
 

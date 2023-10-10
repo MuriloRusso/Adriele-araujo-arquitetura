@@ -1,6 +1,6 @@
 <header>
 
-    <div class="container space-betwen row align-center">
+    <div class="container space-betwen align-center">
 
         <a href="#">
 
