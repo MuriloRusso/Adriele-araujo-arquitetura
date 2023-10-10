@@ -112,3 +112,17 @@ h2{
     background-color: #EFE4DB !important;
 
 }
+
+
+svg{
+
+    width: 60px !important;
+    fill: #E1B6A3;
+
+}
+
+.no-wrap{
+
+    flex-wrap: nowrap !important;
+
+}
