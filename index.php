@@ -162,7 +162,7 @@
 
     </section>
 
-    <section class="container pt pb">
+    <section class="container pt pb" id="contato">
 
         <div class="container text-center">
 
@@ -175,7 +175,7 @@
 
             <div class="col-12 col-md-6">
 
-                <div class="row  align-items-center my-3">
+                <div class="row  align-items-center my-5">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>
@@ -191,7 +191,7 @@
                 </div>
 
 
-                <div class="row  align-items-center  my-3">
+                <div class="row  align-items-center  my-5">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>
@@ -208,7 +208,7 @@
 
 
 
-                <div class="row  align-items-center my-3">
+                <div class="row  align-items-center my-5">
 
                 <svg preserveAspectRatio="xMidYMid meet" data-bbox="13.5 13.5 173 173" viewBox="13.5 13.5 173 173" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><defs><style>#comp-l6psseju svg [data-color="1"] {fill: #E1B6A3;}</style></defs>
                     <g>

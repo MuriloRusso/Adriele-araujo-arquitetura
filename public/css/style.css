@@ -126,3 +126,10 @@ svg{
     flex-wrap: nowrap !important;
 
 }
+
+
+#contato p{
+
+    width: auto !important;
+
+}
